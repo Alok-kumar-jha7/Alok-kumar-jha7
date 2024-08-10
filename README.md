@@ -1,5 +1,5 @@
 [![Master head](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://github.com/Alok-kumar-jha7)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=&duration=3000&pause=1000&color=18F3F7&center=true&vCenter=true&multiline=true&width=435&lines=Hi+There++%F0%9F%91%8B%2C+I'm+Alok+kumar+jha;I+am+Fontend+devloper" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg" align="center"><img src="https://readme-typing-svg.demolab.com?font=&duration=3000&pause=100&color=18F3F7&center=true&vCenter=true&multiline=true&width=440&height=60&lines=Hi+There++%F0%9F%91%8B%2C+I'm+Alok+kumar+jha;++++++++++I+am+Fontend+devloper" alt="Typing SVG"  /></a>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 
