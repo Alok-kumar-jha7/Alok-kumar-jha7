@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Node.js**
 
-- 👨‍💻 All of my projects are available at [alokkr74.netlify.app](alokkr74.netlify.app)
+- 👨‍💻 All of my projects are available at [alokkr74.netlify.app](alokkr7.netlify.app)
 
 - 💬 Ask me about **Frontend development and web development.**
 
