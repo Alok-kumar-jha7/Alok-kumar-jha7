@@ -1,114 +1,143 @@
-[![Master head](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://github.com/Alok-kumar-jha7)
+<div align="center">
+  
+[![Header](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://github.com/Alok-kumar-jha7)
 
-<a href="https://git.io/typing-svg" align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=&duration=3000&pause=100&color=18F3F7&center=true&vCenter=true&multiline=true&width=440&height=60&lines=Hi+There++%F0%9F%91%8B%2C+I'm+Alok+kumar+jha;++++++++++React+Native+Developer" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=18F3F7&center=true&vCenter=true&width=600&lines=Hi+There+%F0%9F%91%8B+I'm+Alok+Kumar+Jha;React+Native+Developer;Mobile+App+Enthusiast;Always+Learning+%26+Building!" alt="Typing SVG" />
 
-<h3 align="center">A passionate React Native Developer from India</h3>
+### 🚀 Passionate React Native Developer from India
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+[![Profile Views](https://komarev.com/ghpvc/?username=alok-kumar-jha7&label=Profile%20Views&color=18F3F7&style=for-the-badge)](https://github.com/Alok-kumar-jha7)
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=alok-kumar-jha7&label=Profile%20views&color=0e75b6&style=flat" alt="alok-kumar-jha7" /> 
-</p>
-
-- 🔭 I’m currently working on **E-commerce App**
-
-- 🌱 I’m currently learning **Node.js**
-
-- 👨‍💻 All of my projects are available at [alokkr7.netlify.app](https://alokkr7.netlify.app/)
-
-- 💬 Ask me about **React Native and Mobile App Development**
-
-- 📫 How to reach me **aalok3828@gmail.com**
-
-- ⚡ Fun fact: **I love turning creative ideas into beautiful and functional mobile experiences!**
+</div>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/alok-kumar-jha-6b50871a8/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://fb.com/aɭoĸ ĸʌsʜƴʌp" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-</a>
-<a href="https://instagram.com/__alok_._._" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-</p>
+<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
+
+### 👨‍💻 About Me
+
+```javascript
+const alok = {
+    currentFocus: "E-commerce App Development",
+    learning: ["Node.js", "Advanced React Patterns"],
+    expertise: ["React Native", "Mobile App Development"],
+    askMeAbout: ["React Native", "JavaScript", "Mobile UI/UX"],
+    funFact: "I turn coffee into code and ideas into apps! ☕️➡️📱",
+    portfolio: "alokkr7.netlify.app",
+    email: "aalok3828@gmail.com"
+};
+```
+
+<br clear="right"/>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <!-- React Native -->
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="react native" width="40" height="40"/>
-  </a>
+### 🎯 Current Status
 
-  <!-- React -->
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a>
-
-  <!-- JavaScript -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a>
-
-  <!-- Expo -->
-  <a href="https://expo.dev/" target="_blank" rel="noreferrer">
-    <img src="https://tse4.mm.bing.net/th/id/OIP.O7qcUzX41GsAcFhJ9CUkXQHaDs?pid=Api&P=0&h=180" alt="expo" width="40" height="40"/>
-  </a>
-
-  <!-- Redux -->
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
-  </a>
-
-  <!-- Firebase -->
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-
-  <!-- Android Studio -->
-  <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer">
-    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="android studio" width="40" height="40"/>
-  </a>
-
-  <!-- Node.js -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a>
-
-  <!-- Git -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-
-  <!-- VS Code -->
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
-  </a>
-
-  <!-- Python -->
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a>
-</p>
+- 🔭 **Working On:** Building a feature-rich E-commerce mobile application
+- 🌱 **Learning:** Node.js backend development and API integration
+- 💡 **Interested In:** Cross-platform development, Mobile UI/UX design
+- 🎨 **Passion:** Creating seamless and beautiful mobile experiences
+- 📱 **Goal:** Contributing to open-source React Native projects
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alok-kumar-jha7&show_icons=true&locale=en&layout=compact" alt="alok-kumar-jha7" />
-</p>
+### 🌐 Connect With Me
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alok-kumar-jha7&show_icons=true&locale=en" alt="alok-kumar-jha7" />
-</p>
+<div align="center">
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alok-kumar-jha7&" alt="alok-kumar-jha7" />
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/alok-kumar-jha-6b50871a8/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/aɭoĸ ĸʌsʜƴʌp)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__alok_._._)
+[![Portfolio](https://img.shields.io/badge/Portfolio-18F3F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alokkr7.netlify.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aalok3828@gmail.com)
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### Mobile Development
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+
+#### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+#### Backend & Tools
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### Development Environment
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</div>
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=alok-kumar-jha7&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=alok-kumar-jha7&theme=tokyonight&hide_border=true" />
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-kumar-jha7&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+
+<div align="center">
+  
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=alok-kumar-jha7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
+### 📈 Contribution Graph
+
+<div align="center">
+
+[![Alok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alok-kumar-jha7&theme=tokyo-night&hide_border=true)](https://github.com/Alok-kumar-jha7)
+
+</div>
+
+---
+
+### 💡 Random Dev Quote
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 🎯 "Turning Ideas Into Reality, One Line of Code at a Time"
+
+**⭐️ From [Alok Kumar Jha](https://github.com/Alok-kumar-jha7)**
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/alokkr7)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</div>
