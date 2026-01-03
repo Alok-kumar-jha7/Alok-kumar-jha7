@@ -115,10 +115,10 @@
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alok-kumar-jha7&theme=tokyonight&utcOffset=5.5" width="49%"/>
 </p>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Alok-kumar-jha7&theme=buefy-dark" alt="GitHub Streak" /></a>
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Alok-kumar-jha7&theme=buefy-dark)](https://git.io/streak-stats)
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Consistency%20beats%20intensity%20—%20one%20commit%20at%20a%20time" />
 </p>
